@@ -503,7 +503,7 @@ textarea:focus {
   height: 50px;
   right: 0;
   top: 20px;
-  background-image: url(/img/icons/plus.svg);
+  background-image: url(../img/icons/plus.svg);
   background-repeat: no-repeat;
   background-position: right;
   background-size: contain;
